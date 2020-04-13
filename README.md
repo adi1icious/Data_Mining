@@ -1,2 +1,2 @@
 # Data_Mining
-Data Mining Practical Files
+Data Mining Practicals
